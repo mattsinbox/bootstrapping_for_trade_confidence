@@ -1,4 +1,4 @@
-# Work is Progress
+# Work in Progress
 
 # sampling_through_chaos
 
