@@ -1,5 +1,5 @@
 # Project Motivation
-While ooking at option prices on the eur/usd that expire in about 12 days, the straddle prices looked very cheap.  https://www.investopedia.com/terms/s/straddle.asp.  The implied volatility for these options was 3%.  I wanted to use historical data to see if the straddle price was cheap by sampling through the data and picking 12 day periods.  By sampling, I could then build a confidence interval and see the percentage of times the eur/usd moved more than the straddle price.  I thought this could be helpful and applied when evaluating any asset's straddle price.   
+While looking at option prices on the eur/usd that expire in about 12 days, the straddle prices looked very cheap.  https://www.investopedia.com/terms/s/straddle.asp.  The implied volatility for these options was 3%.  I wanted to use historical data to see if the straddle price was cheap by sampling through the data and picking 12 day periods.  By sampling, I could then build a confidence interval and see the percentage of times the eur/usd moved more than the straddle price.  I thought this could be helpful and applied when evaluating any asset's straddle price.   
 
 # sampling_through_chaos
 
